@@ -1,17 +1,18 @@
-# Fokus
+# VidFlow
 
-Projeto temporizador estilo Pomodoro em JavaScript manipulação do DOM.
+Projeto de simulação do youtube.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Fokus**
-| :label: Tecnologias | JavaScript
-| :rocket: URL         | https://andreduarte99.github.io/projeto-fokus/
-| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom
+| :sparkles: Nome        | **VidFlow**
+| :label: Tecnologias | JavaScript, Nodejs e Vite.
+| :rocket: URL         | https://nodejs-vidflow-vite-indol.vercel.app/
+| :fire: Desafio     | https://cursos.alura.com.br/course/node-js-terminal-ambiente-desenvolvimento-front-end
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
-![fokus](https://github.com/user-attachments/assets/2c8091ec-3d1e-40a6-a648-ecf5292f46dd#vitrinedev)
+![vidflow](https://github.com/user-attachments/assets/4b013324-e263-4c6b-9bfc-255cebfbdcef)
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" alt="badges"/>
